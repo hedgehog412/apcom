@@ -1,0 +1,8 @@
+gave give 0
+left leave 0
+helped help 0
+give give 1
+tell tell 1
+will give give 2
+will help help 2
+told tell 0

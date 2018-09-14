@@ -1,0 +1,22 @@
+ate eat 0
+like like 1
+hate hate 1
+had have 0
+killed kill 0
+want want 1
+will eat eat 2
+will kill kill 2
+played play 0
+taught teach 0
+likes like 1
+wants want 1
+wanted want 0
+studied study 0
+will kiss kiss 2
+love love 1
+loved love 0
+study study 1
+wish wish 1
+confessed confess 0
+teaches teach 1
+have have 1

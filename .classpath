@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="August21AP/src"/>
+	<classpathentry kind="src" path="Feb 6/src"/>
+	<classpathentry kind="src" path="Feb13/src"/>
+	<classpathentry kind="src" path="Feb22/src"/>
+	<classpathentry kind="src" path="FinalsPractice/src"/>
+	<classpathentry kind="src" path="GUI/src"/>
+	<classpathentry kind="src" path="HW1/src"/>
+	<classpathentry kind="src" path="HW2/src"/>
+	<classpathentry kind="src" path="HW2Other/src"/>
+	<classpathentry kind="src" path="HW3 other/src"/>
+	<classpathentry kind="src" path="HW3/src"/>
+	<classpathentry kind="src" path="Jan 26/src"/>
+	<classpathentry kind="src" path="Jan 27/src"/>
+	<classpathentry excluding="src/" kind="src" path="Lab"/>
+	<classpathentry kind="src" path="Lab/src"/>
+	<classpathentry kind="src" path="Mar06/src"/>
+	<classpathentry kind="src" path="Mar13/src"/>
+	<classpathentry kind="src" path="Mar27/src"/>
+	<classpathentry kind="src" path="Matrix/src"/>
+	<classpathentry kind="src" path="MidTermPractice/src"/>
+	<classpathentry kind="src" path="Nov1/src"/>
+	<classpathentry kind="src" path="Nov20/src"/>
+	<classpathentry kind="src" path="Nov27/src"/>
+	<classpathentry kind="src" path="Nov8/src"/>
+	<classpathentry kind="src" path="Oct30/src"/>
+	<classpathentry kind="src" path="Pixlab/src"/>
+	<classpathentry kind="src" path="practice/src"/>
+	<classpathentry kind="src" path="Sep20/src"/>
+	<classpathentry kind="src" path="Sep25/src"/>
+	<classpathentry kind="src" path="Sep27/src"/>
+	<classpathentry kind="src" path="TestPractice/src"/>
+	<classpathentry kind="lib" path="HW2/bin/chnutil.jar"/>
+	<classpathentry kind="lib" path="HW2/bin/student/chnutil.jar"/>
+	<classpathentry kind="lib" path="packages/chnutil.jar"/>
+	<classpathentry kind="lib" path="Sep25/bin/chnutil.jar"/>
+	<classpathentry kind="lib" path="Sep25/chnutil.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="August21AP/bin"/>
+</classpath>
